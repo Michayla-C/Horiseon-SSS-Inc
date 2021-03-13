@@ -76,6 +76,14 @@ p {
     margin-left: 20px;
 }
 
+aside {
+    float: right;
+    padding-left: 15px;
+    margin-left: 15px;
+    display: block;
+}
+
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
